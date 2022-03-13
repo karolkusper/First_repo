@@ -3,3 +3,7 @@ git status
 git add plik
 git commit -m"wiadomosc"
 git log
+git branch
+git checkout -b"nazwa nowego brancha"
+git checkout master(zmiana na mastera)
+git merge (nazwa brancha ktorą chcemy połączyć z branchem"
