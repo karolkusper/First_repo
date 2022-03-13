@@ -3,3 +3,5 @@ git status
 git add plik
 git commit -m"wiadomosc"
 git log
+git branch
+git checkout -b"nazwa nowego brancha"
